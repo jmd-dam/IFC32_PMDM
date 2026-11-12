@@ -50,6 +50,3 @@ String estatBateria() => switch (bateriaPercentatge) {
 
 Al final se intenta recargar `-10.0`. El método lanza un `ArgumentError` y el `try-catch` muestra el mensaje sin interrumpir el programa.
 
-## Entrega
-
-Falta completar el nombre y los enlaces de `PLANTILLA_ENTREGA.md`, publicar el código y grabar el vídeo. El vídeo debe durar como máximo tres minutos. Después hay que exportar la plantilla a PDF y entregar ese único archivo.
