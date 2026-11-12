@@ -1,0 +1,21 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "EcoRide: depurar programa principal",
+      "type": "dart",
+      "request": "launch",
+      "program": "${workspaceFolder}/Tasca-01/bin/main.dart",
+      "cwd": "${workspaceFolder}/Tasca-01",
+      "console": "debugConsole"
+    },
+    {
+      "name": "EcoRide: depurar pruebas",
+      "type": "dart",
+      "request": "launch",
+      "program": "${workspaceFolder}/Tasca-01/test/pruebas.dart",
+      "cwd": "${workspaceFolder}/Tasca-01",
+      "console": "debugConsole"
+    }
+  ]
+}
